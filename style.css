@@ -32,7 +32,8 @@ p {
 }
 
 em strong {
-    color: #FF0000;
+
+    color: #FF5000;
 }
 
 .itens {
@@ -57,4 +58,5 @@ ul {
 
 .imagembeneficios {
     width: 50%;
+
 }
