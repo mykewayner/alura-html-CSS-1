@@ -26,3 +26,16 @@ p {
 em strong {
     color: #FF0000;
 }
+
+.itens {
+    font-style: italic
+}
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
